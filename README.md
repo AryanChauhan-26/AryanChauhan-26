@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>About Me<br>I'm a first-year Computer Science (AI) student at Vedam School of Technology, passionate about building things for the web and exploring how AI can make software smarter.<br>🎓 Currently studying B.Tech in Computer Science (AI)<br>💻 Learning and building with HTML, CSS, and Java<br>🎨 Enjoy creating clean, functional frontend designs<br>🚀 Always exploring new projects to sharpen my skills<br>🌱 Actively growing my knowledge in web development and AI
+Hi there 👋<br>About Me<br>I'm a first-year Computer Science (AI) student at Vedam School of Technology, passionate about building things for the web and exploring how AI can make software smarter.<br>🎓 Currently studying B.Tech in Computer Science (AI)<br>💻 Learning and building with HTML, CSS, and Java Script<br>🎨 Enjoy creating clean, functional frontend designs<br>🚀 Always exploring new projects to sharpen my skills<br>🌱 Actively growing my knowledge in web development and AI
 
 
 ## 🌐 Socials:
