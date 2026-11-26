@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Chauhan</h1>
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 </p>
 
 
