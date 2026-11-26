@@ -1,6 +1,10 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Aryan Chauhan</h1>
 
-Hi there 👋
+<p align="center">
+  <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
+</p>
+
+# 💫 About Me:
 
 I'm a first-year Computer Science (AI) student at Vedam School of Technology, passionate about building things for the web and exploring how AI can make software smarter.<br>🎓 Currently studying B.Tech in Computer Science (AI)<br>💻 Learning and building with HTML, CSS, and Java Script<br>🎨 Enjoy creating clean, functional frontend designs<br>🚀 Always exploring new projects to sharpen my skills<br>🌱 Actively growing my knowledge in web development and AI
 
