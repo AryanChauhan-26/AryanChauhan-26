@@ -20,25 +20,13 @@ I'm a first-year Computer Science (AI) student at Vedam School of Technology, pa
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanChauh-07&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanChauh-07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-### 🔥 Contributions in 2026
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanChauh-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&commits_year=2026" alt="2026 Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AryanChauh-07&theme=onedark&no-frame=true&column=4" alt="Trophies" />
 </p>
 
-### 📅 Contributions in 2025
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanChauh-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&commits_year=2025" alt="2025 Stats" />
-</p>
-
-### 📈 Last 12 Months Graph
-<p align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/AryanChauh-07" alt="Contribution chart" />
-</p>
-
-### ⚡ Recent Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanChauh-07&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/2f81f7/AryanChauh-07" alt="Contributions last year" />
 </p>
