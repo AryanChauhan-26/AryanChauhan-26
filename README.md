@@ -6,13 +6,11 @@
 
 ---
 # 💫 About Me:
-
-
-<br/>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+%28AI%29+Student;Frontend+Developer;Java+%7C+JavaScript+%7C+Web+Development;Exploring+Artificial+Intelligence;Building+Ideas+Into+Reality" alt="Typing animation"/>
 
-<br/><br/
+</div>
 
 I'm a first-year Computer Science (AI) student at Vedam School of Technology, passionate about building things for the web and exploring how AI can make software smarter.<br>🎓 Currently studying B.Tech in Computer Science (AI)<br>💻 Learning and building with HTML, CSS, and Java Script<br>🎨 Enjoy creating clean, functional frontend designs<br>🚀 Always exploring new projects to sharpen my skills<br>🌱 Actively growing my knowledge in web development and AI
 
