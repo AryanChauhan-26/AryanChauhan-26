@@ -23,6 +23,11 @@ I'm a first-year Computer Science (AI) student at Vedam School of Technology, pa
   <img src="https://streak-stats.demolab.com/?user=AryanChauhan-26&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanChauhan-26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanChauhan-26/AryanChauhan-26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanChauhan-26/AryanChauhan-26/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AryanChauhan-26/AryanChauhan-26/output/github-snake.svg" />
+</picture>
