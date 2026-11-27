@@ -20,9 +20,9 @@ I'm a first-year Computer Science (AI) student at Vedam School of Technology, pa
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanChauhan-26&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://streak-stats.demolab.com/?user=AryanChauhan-26&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryanChauhan-26&theme=onedark&no-frame=true&column=4" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanChauhan-26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
