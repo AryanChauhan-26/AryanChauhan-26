@@ -28,4 +28,3 @@ I'm a first-year Computer Science (AI) student at Vedam School of Technology, pa
   <img src="https://streak-stats.demolab.com/?user=AryanChauhan-26&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
-
