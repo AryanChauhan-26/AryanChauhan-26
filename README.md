@@ -28,3 +28,15 @@ I'm a first-year Computer Science (AI) student at Vedam School of Technology, pa
   <img src="https://streak-stats.demolab.com/?user=AryanChauhan-26&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdazfar2&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="mdazfar2" /></p>
+
+<p align="left"><img
+                src="https://github-readme-stats.vercel.app/api?username=mdazfar2&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="AryanChauhan-26" height="170" /></p>
+                
+
+
+
+<img src="https://img.shields.io/github/followers/mdazfar2.svg?style=social&amp;label=Follow"
+        style="max-width: 100%;" />
